@@ -39,7 +39,17 @@ pritunl UI work on http (443) port so you need to access to server 443 TCP. http
 
 <img width="682" alt="image" src="https://github.com/user-attachments/assets/fde1fc8b-dbc7-4ae9-b925-baa406d8c897" />
 
-then you login pritunl UI previos setup-key
+then you login mongodb previous setup-key. pritunl ask you username and password for real UI.
+
+you can find "sudo pritunl default-password" this command user and password. 
+
+
+![image](https://github.com/user-attachments/assets/b37813a6-0476-483c-a500-118fdb7b431b)
+
+after login you can change admin user and password. 
+
 
 thanks
+
+
 
