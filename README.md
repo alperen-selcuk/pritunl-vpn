@@ -2,7 +2,7 @@
 
 ## ubuntu installation
 
-this installation require ubuntu 24.04
+this installation require ubuntu 24.04 (any other distro you can use documentation https://docs.pritunl.com/docs/installation )
 
 ```
 sudo tee /etc/apt/sources.list.d/mongodb-org.list << EOF
